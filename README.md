@@ -7,7 +7,7 @@ My name is Robert Peacock. I'm a graduand of the CodeClan Professional Software 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: robertjamespeacock@gmail.com or via LinkedIn (see below)
+- 📫 How to reach me: robertjamespeacock@gmail.com or via [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/robertjamespeacock)
 - ⚡ Fun fact: I run The Wee Review, an arts and culture reviews site for Scotland 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/robertjamespeacocks)
+
