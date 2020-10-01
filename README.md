@@ -2,8 +2,8 @@
 
 My name is Robert Peacock. I'm a new graduate of the CodeClan Professional Software Development Course E41 Cohort. I am based in Edinburgh and looking for software engineer roles.
 
-- 🔭 I’m currently working on my final CodeClan coursework
-- 🌱 I’m currently learning React.js
+- 🔭 I’m currently working on deploying my CodeClan projects and creating a portfolio website
+- 🌱 I’m currently experimenting with Vuetify to build a new front end for the website I run, [The Wee Review](https://theweereview.com)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
