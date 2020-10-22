@@ -19,4 +19,10 @@ My name is Robert Peacock. I'm a new graduate of the CodeClan Professional Softw
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## Stats :chart_with_upwards_trend:
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peaky76&hide=issues,stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peaky76L&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
