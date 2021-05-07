@@ -2,8 +2,8 @@
 
 My name is Robert Peacock. I'm a graduate of the CodeClan Professional Software Development Course E41 Cohort, now working for SwarmOnline. I am based in Edinburgh.
 
-- 🔭 I’m currently working on deploying my CodeClan projects and creating a portfolio website
-- 🌱 I’m currently experimenting with Vuetify to build a new front end for the website I run, [The Wee Review](https://theweereview.com)
+- 🔭 I’m currently working on my own personal horseracing projects
+- 🌱 I’m currently experimenting with Vue to build a new front end for the website I run, [The Wee Review](https://theweereview.com)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
