@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Robert Peacock. I'm a Python and Database Developer, working for The Audience Agency on a national audience data and development tool. Previously, I worked for web agency SwarmOnline in React, PHP and Python. I am based in Edinburgh and was a graduate of the CodeClan Professional Software Development Course E41 Cohort 
+My name is Robert Peacock. I'm currently working for The Audience Agency on a national audience data and development tool using Ruby on Rails. Previously, I worked for web agency SwarmOnline in React, PHP and Python. I am based in Edinburgh and was a graduate of the CodeClan Professional Software Development Course E41 Cohort 
 
 - 🔭 I’m currently working on my own personal horseracing projects
 - 🌱 I’m currently experimenting with Vue to build a new front end for the website I run, [The Wee Review](https://theweereview.com)
