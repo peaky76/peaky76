@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Robert Peacock. I'm currently working for Simply Business in Ruby on Rails. Previously, I worked with the Audience Agency on a national audience data and development tool also using Ruby on Rails and before that for web agency SwarmOnline in React, PHP and Python. I am based in Edinburgh and was a graduate of the CodeClan Professional Software Development Course E41 Cohort 
+My name is Robert Peacock. I'm currently working for Simply Business in Ruby on Rails. Previously, I worked with the Audience Agency on a national audience data and development tool also using Ruby on Rails and before that for web agency SwarmOnline in React, PHP and Python. I am based in the small town of Burntisland, Fife and was a graduate of the CodeClan Professional Software Development Course E41 Cohort in Edinburgh. 
 
 - 🔭 I’m currently working on my own personal horseracing projects
 - 🌱 I’m currently experimenting with Prefect for orchestrating some of the data fetching for the above 
