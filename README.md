@@ -21,8 +21,8 @@ My name is Robert Peacock. I'm currently working for Simply Business in Ruby on 
 
 ## Stats :chart_with_upwards_trend:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peaky76&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peaky76&show_icons=true&count_private=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peaky76&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peaky76&layout=compact&langs_count=10&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
 
